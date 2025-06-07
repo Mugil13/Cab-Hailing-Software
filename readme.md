@@ -57,9 +57,9 @@ The code is run by
 ```
 
 # Authors
+Mugilkrishna D U<br/>
 Nikilesh Jayaguptha<br/>
-Neha Shanmitha<br/>
-Mugilkrishna D U
+Neha Shanmitha
 
 # Acknowledgements
 https://www.youtube.com/watch?v=-L-WgKMFuhE<br/>
