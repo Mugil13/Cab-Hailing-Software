@@ -56,8 +56,6 @@ The code is run by
 ./main
 ```
 
-# Demo
-
 # Authors
 Nikilesh Jayaguptha<br/>
 Neha Shanmitha<br/>
