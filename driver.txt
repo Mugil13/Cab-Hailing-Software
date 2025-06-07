@@ -1,0 +1,12 @@
+Murugan,minisedan,figo,TN025445,4.2,24,18,20
+Sivan,SUV,Highlander,TN235665,3.6,11,35,32
+Kavin,Sedan,Swift Dzire,TN566467,4.3,20,35,32
+Parvathi,minisedan,Swift,TN545532,3.9,16,35,32
+Akash,SUV,Innova,TN884454,4.1,32,35,32
+Krishna,Sedan,Etios,TN998345,4.1,19,35,32
+Paul,minisedan,tigor, TN115427,3.8,15,23,21
+Ranjith,SUV,Fortuner, TN229646,4.0,15,35,32
+Suraj,Sedan,Verna, TN229802,3.6,14,43,6
+Sashi,minisedan,Amaze, TN113453,4.0,20,30,16
+Mukund,SUV,InnovaCrysta, TN083967,3.8,23,2,16
+Nirmal,Sedan,Accent, TN129232,4.5,25,22,32
